@@ -1,5 +1,4 @@
-# php课程代码!
+# lesson-13
 
-### 在master主线中,不会有任何的内容
+### 审核(FILTER_SANITIZE),验证(FILTER_VALIDATE)规则
 
-### 每个知识点会以分支的形式进行上传
